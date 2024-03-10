@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/drawable/radiobutton_outline.xml -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Unchecked state -->
+    <item android:state_checked="false">
+        <shape android:shape="rectangle">
+            <stroke android:width="2dp" android:color="#FFFFFF" /> <!-- Red outline -->
+            <corners android:radius="4dp" /> <!-- Optional: rounded corners -->
+        </shape>
+    </item>
+    <!-- Checked state -->
+    <item android:state_checked="true">
+        <shape android:shape="rectangle">
+            <stroke android:width="2dp" android:color="#00F0F0" /> <!-- Green outline -->
+            <corners android:radius="4dp" /> <!-- Optional: rounded corners -->
+        </shape>
+    </item>
+</selector>
