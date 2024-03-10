@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tip_Calculator_HW3</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="tax_input">Impuesto:</string>
+    <string name="no_tip_label">0%</string>
+    <string name="ten_percent_tip_label">10%</string>
+    <string name="five_percent_tip_label">5%</string>
+    <string name="twenty_percent_tip_label">20%</string>
+    <string name="tip_value_label">Consejo:</string>
+    <string name="total_with_tip_label">Total:</string>
+    <string name="title_label">TIP CALCULATOR</string>
+    <string name="enter_total_hint">Por favor ingrese el total 0,00</string>
+    <string name="tax_hint">Introduzca el importe del impuesto 0,00</string>
+    <string name="clear_button_label">Claro</string>
+    <string name="Calculate_button_label">Calcular</string>
+    <string name="">S</string>
+    <string name="subtotal_label">Total parcial:</string>
+</resources>
